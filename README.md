@@ -57,4 +57,53 @@ A collection of repos in object tracking
         <td>This repository contains code for Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT). </td>
         <td>deepsort</td>
     </tr>
+    <tr>
+        <td>https://github.com/blakeliu/easyMTracking</td>
+        <td>Detection by yolov2, calman filter predict motion trajectory, and build assignment problem sovled by Hungarian algorithm</td>
+        <td>good</td>
+    </tr>
+    <tr>
+        <td>https://github.com/dirtmaxim/OpenMultiTracker</td>
+        <td>Tracker that uses computer vision methods to track players on the hockey field</td>
+        <td>to view</td>
+    </tr>
+    <tr>
+        <td>https://github.com/foolwood/DAT</td>
+        <td>This is a C++ reimplementation of algorithm presented in "In Defense of Color-based Model-free Tracking." . </td>
+        <td>to view</td>
+    </tr>
+    <tr>
+        <td>https://github.com/samuelmurray/tracking-by-detection</td>
+        <td>Code for my master thesis, titled "Real-Time Multiple Object Tracking: A Study on the Importance of Speed".</td>
+        <td> C++SORT</td>
+    </tr>
+    <tr>
+        <td>https://github.com/bertinetto/siamese-fc</td>
+        <td>Arbitrary object tracking at 50-100 FPS with Fully Convolutional Siamese networks. </td>
+        <td>siamese-fc</td>
+    </tr>
+        <tr>
+        <td>https://github.com/Smorodov/Multitarget-tracker</td>
+        <td>Multitarget (multiple objects) tracker</td>
+        <td>good engineering!</td>
+    </tr>
+        <tr>
+        <td>https://github.com/alokwhitewolf/MultiObjectTracker</td>
+        <td>Advanced multiple object tracker using dlib and OpenCV.</td>
+        <td>to view</td>
+    </tr>
+        <tr>
+        <td>https://github.com/alokwhitewolf/MultiObjectTracker</td>
+        <td>Advanced multiple object tracker using dlib and OpenCV.</td>
+        <td>to view</td>
+    </tr>
 </table>
+
+
+
+other userful summary links:
+https://github.com/SpyderXu/multi-object-tracking-paper-list
+https://github.com/foolwood/benchmark_results
+https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection
+
+https://github.com/votchallenge/vot-toolkit
